@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/492
     wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40169#De-Drie-Musketiers-dl.-I-en-II
 gutenberg_issued: '2012-07-08'
 gutenberg_type: Text
 identifiers:
