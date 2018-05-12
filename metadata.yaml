@@ -1,0 +1,35 @@
+_repo: De-Drie-Musketiers-dl.-I-en-II_40169
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40169-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas père, Alexandre
+    - Dumas, Alexander
+    - Dumas, Alexandre, pere
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: ''
+gutenberg_issued: '2012-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40169'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Swordsmen -- Fiction'
+- !lcsh 'Historical fiction'
+- !lcsh 'Adventure and adventurers -- Fiction'
+- !lcsh 'French fiction -- Translations into Dutch'
+- !lcsh 'France -- History -- Louis XIII, 1610-1643 -- Fiction'
+title: De Drie Musketiers dl. I en II
+url: http://www.gutenberg.org/ebooks/40169
